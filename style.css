@@ -44,6 +44,11 @@ header h1 {
 
 }
 
+.container{
+    width: 80%;
+    margin: 0 auto;
+}
+
 .set {
     display: none;
 }
